@@ -12,6 +12,7 @@ namespace GitFlowTest
         {
             Console.WriteLine("Console App Test");
             Console.WriteLine("Console App Test - Line 2");
+            Console.WriteLine("Console App Test - Line 3");
         }
     }
 }
